@@ -3,19 +3,6 @@ In this assignment you will print a series of gymnastics scores that are
 provided at the command line.  Some basic validation will be performed before
 the output is printed.
 
-## Assignment Submission
-You will submit your assignment using GitHub Classroom.  When you are
-finished and want to make your final submission, use the checkin
-comment "FINAL SUBMISSION":
-
-        git add .
-        git commit -m "FINAL SUBMISSION"
-        git push origin main
-
-Any submission not having this comment will be assumed to be a
-work-in-progress and therefore will be ignored.  This implies that you
-must make your final push with this commit comment before the deadline.
-
 ## Input
 Your program will take 4 command line arguments representing 4 scores from
 gymnastics events.  The program should validate that exactly 4 scores have
